@@ -5,9 +5,9 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1"> 
    
-    <link rel="icon" sizes="57x57" href="./__ Andhra Pradesh Grama_Ward Sachivalayam ___files/AP.png"> 
-    <link href="./__ Andhra Pradesh Grama_Ward Sachivalayam ___files/bootstrap.min.css" rel="stylesheet">
-    <link href="./__ Andhra Pradesh Grama_Ward Sachivalayam ___files/styles.css" rel="stylesheet">
+    <link rel="icon" sizes="57x57" href="./__ telanganaaaaa jaffaAndhra Pradesh Grama_Ward Sachivalayam ___files/AP.png"> 
+    <link href="./__ telanganaaaaa jaffaAndhra Pradesh Grama_Ward Sachivalayam ___files/bootstrap.min.css" rel="stylesheet">
+    <link href="./__ telanganaaaaa jaffaAndhra Pradesh Grama_Ward Sachivalayam ___files/styles.css" rel="stylesheet">
     
  <style>
   .panel-primary>.panel-heading{
