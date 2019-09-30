@@ -3,12 +3,12 @@ pipeline {
 	stage {
 	    stage ('pacakaging') {
 	        steps {
-		       ls /bin > /opt/file55
+		       echo 'hello world'
 			    }
 		}		
 		stage ('deploying') {
 			steps {
-			    ls /var > /opt/file66
+			    echo 'hello world2'
 				}
 		}
 	}
