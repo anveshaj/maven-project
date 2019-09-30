@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+   agent any
 	stage {
 	    stage ('pacakaging') {
 	        steps {
